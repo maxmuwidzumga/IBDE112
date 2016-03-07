@@ -1,0 +1,41 @@
+@charset "UTF-8";
+nav {
+	float: right;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	margin-top: 68px;
+}
+
+nav ul li {
+	display: inline;
+	margin-right: 10px;
+	list-style-type: none;
+	background-image: url(images/8-navtab.jpg);
+	background-repeat: repeat-x;
+	height: 34px;
+	padding: 8px;
+	font-size: 18px;
+	-webkit-border-radius: 5px 5px 0 0;
+	border-radius: 5px 5px 0 0;
+}
+
+nav ul li a {
+	color: #036;
+	font-weight: normal;
+}
+
+nav ul li a:link {
+	text-decoration: none;
+}
+
+nav ul li a:visited {
+	text-decoration: none;
+}
+
+nav ul li a:hover {
+	color: #FFF;
+}
+
+nav ul li a:active {
+	text-decoration: underline;
+}
