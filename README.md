@@ -1,2 +1,3 @@
 # IBDE112-a
-Northern Lights B&amp;B, IBDE 112 Project 1/2
+IBDE Web Technologies and Design
+IBDE 112: Dreamweaver CS6 - Site Development<br>
